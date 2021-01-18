@@ -1,5 +1,4 @@
 # hello-world
-practice repo
 
 Good Evening
 
